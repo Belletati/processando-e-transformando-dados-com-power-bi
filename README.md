@@ -19,3 +19,7 @@ Questão: Explique por que, neste caso supracitado, podemos apenas utilizar o me
 atribuir.
 Mesclar funciona como join do sql e acrescenta colunas a uma tabela, de acordo com uma correspondência (chave). Acrescentar funciona como union do sql e acrescenta linhas a tabela.
 
+
+<img src="/img.jpg">
+
+
